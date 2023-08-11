@@ -55,6 +55,7 @@
 		"Switch",
 		"XboxOne",
 		"XSX",
-		"IOS"
+		"IOS",
+		"Android"
 	]
 }
